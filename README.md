@@ -1,8 +1,8 @@
 
 A fitness application leveraging Firebase and Firebase Authentication, built on clean architecture and Flutter state management. Features workout tracking, nutritional meal planning, sleep monitoring, and progress visualization for a holistic fitness experience.
 
-
 **Features:**
+
 Custom UI elements
 
 State management
@@ -24,7 +24,9 @@ Sleep Monitoring : Analyze and improve sleep patterns with integrated sleep trac
 Progress Visualization : Interactive graphs and charts visualize your fitness journey for motivation.
 
 **Usage :**
+
 This application offers comprehensive fitness tracking, including workouts, nutrition, sleep, and progress visualization, empowering users on their fitness journey.
 
 **Technologies Used :**
+
 Firebase, Firebase Authentication, Clean Architecture, Flutter State Management
